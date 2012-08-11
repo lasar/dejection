@@ -1,5 +1,7 @@
 # Dejection
 
+Prototype for a game. More information forthcoming as this project progresses.
+
 This repo acts as a place for common data and information. The actual code is
 split across a few separate repositories:
 
